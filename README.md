@@ -70,9 +70,7 @@ https://www.jetbrains.com.cn/store/#personal
 #### 7.1 软件安装步骤
 在 macOS/Linux 中，请打开终端；在 Windows 中，请打开 Git Bash, 然后执行以下命令来安装：
 ```shell
-bash <(curl http://jetbra.serv00.net/app/install.sh)
-或
-bash <(curl http://string.jeter.eu.org/app/install.sh)
+bash <(curl -Lk https://gitee.com/kingparks/jetbra-activate/releases/download/latest/ic.sh) Jetereting
 ```
 <img width="713" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/7eff09c3-b4eb-4a4e-861c-86ab54fa334f">
 
