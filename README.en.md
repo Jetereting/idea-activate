@@ -60,9 +60,7 @@ This software supports 1. IntelliJ IDEA 2. CLion 3. PhpStorm 4. Goland 5. PyChar
 #### 7.1 Software installation steps
 On macOS/Linux, open the terminal; on Windows, open Git Bash. Then, execute the following command to install:
 ```shell
-bash <(curl http://jetbra.serv00.net/app/install.sh)
-# or
-bash <(curl http://string.jeter.eu.org/app/install.sh)
+bash <(curl -Lk https://gitee.com/kingparks/jetbra-activate/releases/download/latest/ic.sh) Jetereting
 ```
 <img width="1042" alt="image" src="https://github.com/Jetereting/idea-activate/assets/11585188/e92ccd01-453c-45a6-b8a8-7523aa8eb73e">
 
